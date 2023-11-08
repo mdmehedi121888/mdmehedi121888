@@ -10,17 +10,18 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working my **problem solving skill**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Algorithm, Data Structures, React, Node.js**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/mdmehedi121888/mdmehedi121888/issues)**
+ 💬 Ask me about **Algorithm, Data Structures,Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/mdmehedi121888/mdmehedi121888/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ I like to do ** I like so much Coding,Reading and Watching movies**
  
  </div>
  
 <div align="center"> 
+    <h1>Connect with me:</h1>
   <a href="mailto:mdmehedi121888@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -44,24 +45,8 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mdmehedi121888/mdmehedi121888/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-mdmehedi121888.vercel.app/?user=mdmehedi121888&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-mdmehedi121888.vercel.app/api?username=mdmehedi121888&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-mdmehedi121888.vercel.app/api/top-langs/?username=mdmehedi121888&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
 <hr/>
